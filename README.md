@@ -1,9 +1,8 @@
 # 酷狗签到
 
-GitHub Actions 实现 `酷狗概念VIP` 自动签到
-每天领取总计 `两天酷狗概念VIP`
+GitHub Actions 实现 `酷狗概念VIP` 自动签到，每天领取总计 `两天酷狗概念VIP`
 
-登录后即可使用，目前 提供二维码登录(推荐)和手机号登录(一个手机号绑定多个账号无法登录,见 [多账号登录问题](https://github.com/MakcRe/KuGouMusicApi/issues/51))
+登录后即可使用，目前提供二维码登录(推荐)和手机号登录(一个手机号绑定多个账号无法登录，见 [多账号登录问题](https://github.com/MakcRe/KuGouMusicApi/issues/51))
 
 ## 免责声明
 
@@ -22,7 +21,7 @@ GitHub Actions 实现 `酷狗概念VIP` 自动签到
 > [!warning]
 > 注意事项
 >
-> 若登录后听歌领取失败，请到APP 活动中心->天天签到领VIP(这个活动新用户好像没有),查看当日是否已经领取VIP。
+> 若登录后听歌领取失败，请到APP 活动中心->天天签到领VIP(这个活动新用户好像没有) 查看当日是否已经领取VIP。
 
 1. Fork 本仓库
 
